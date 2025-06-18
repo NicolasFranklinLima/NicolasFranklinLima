@@ -23,6 +23,11 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
+## 🔥 Let's build something cool together!
+![cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
+
 ---
 
 ## 🌱 Currently learning
