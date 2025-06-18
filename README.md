@@ -16,16 +16,16 @@
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-
-## 🔥 Let's build something cool together!
-![cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
+</p>
 
 
 ---
@@ -46,3 +46,4 @@
 ---
 
 ## 🚀 Let’s build something great!
+![cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
