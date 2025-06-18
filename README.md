@@ -6,16 +6,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -27,14 +17,15 @@
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
 </p>
 
-
 ---
 
 ## 🌱 Currently learning
 
 - JavaScript
 - Python
-
+- Java
+- C#
+- C++
 ---
 
 ## 📫 Contact
