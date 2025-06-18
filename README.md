@@ -32,7 +32,7 @@
 
 - Email: nicolasfranklin147@gmail.com
 - Whatsapp 55+ 17 99655-6870
-- GitHub: [github.com/nicolasfranklin](https://github.com/nicolasfranklin)
+- GitHub: https://github.com/NicolasFranklinLima/
 
 ---
 
